@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 ## 🚀 Projects
 
 Here are a few selected bioinformatics and biotechnology projects I’ve worked on:
