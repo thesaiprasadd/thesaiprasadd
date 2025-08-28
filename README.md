@@ -7,8 +7,7 @@ Here are a few selected bioinformatics and biotechnology projects I’ve worked 
 Dual study: PTEN inhibition for CNS regeneration and hub gene analysis in Ankylosing Spondylitis using GEO datasets, network clustering, and docking methods.
 
 🔹 [Data Science - Coursera](https://github.com/thesaiprasadd/Data-Science-Coursera/tree/main)  
-Dual study: PTEN inhibition for CNS regeneration and hub gene analysis in Ankylosing Spondylitis using GEO datasets, network clustering, and docking methods.
-Feel free to explore the repos and drop a ⭐ if you find them interesting!
+Created and maintained a GitHub repository as part of coursework, showcasing hands-on practice with Jupyter Notebooks and basic Python syntax.
 
 Thank you <3
 
