@@ -6,7 +6,7 @@ Here are a few selected bioinformatics and biotechnology projects I’ve worked 
 🔹 [CNS regeneration & Ankylosing Spondylitis Molecular Docking](https://github.com/thesaiprasadd/Bioinformatics-Projects)  
 Dual study: PTEN inhibition for CNS regeneration and hub gene analysis in Ankylosing Spondylitis using GEO datasets, network clustering, and docking methods.
 
-🔹 [CNS regeneration & Ankylosing Spondylitis Molecular Docking](https://github.com/thesaiprasadd/Bioinformatics-Projects)  
+🔹 [Data Science - Coursera]([https://github.com/thesaiprasadd/Bioinformatics-Projects](https://github.com/thesaiprasadd/Data-Science-Coursera/blob/main/DataScienceEcosystem%20(1).ipynb))  
 Dual study: PTEN inhibition for CNS regeneration and hub gene analysis in Ankylosing Spondylitis using GEO datasets, network clustering, and docking methods.
 Feel free to explore the repos and drop a ⭐ if you find them interesting!
 
